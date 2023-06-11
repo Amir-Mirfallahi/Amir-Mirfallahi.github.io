@@ -620,7 +620,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
           transform: rotate(0deg);
       }
       100% {
-          transform: rotate(135deg);
+          transform: rotate(170deg);
       }
   }
 
@@ -629,7 +629,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
           transform: rotate(0deg);
       }
       100% {
-          transform: rotate(170deg);
+          transform: rotate(160deg);
       }
   }
 
