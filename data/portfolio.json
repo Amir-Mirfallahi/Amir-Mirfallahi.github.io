@@ -1,0 +1,200 @@
+{
+  "personal": {
+    "name": "Amir Mirfallahi",
+    "role": "Backend-Focused Developer",
+    "tagline": "Backend-Focused Developer Building Scalable Systems",
+    "headline": "Building Scalable Systems That Power the Web",
+    "subheadline": "I design and build reliable backend systems using Laravel and Django, with a strong focus on APIs, performance, and clean architecture.",
+    "bio": [
+      "I'm a software developer with a strong focus on backend development. My expertise lies in building API-driven systems and architecting databases that scale.",
+      "With hands-on experience in Laravel and Django, I've built everything from RESTful APIs to full-stack web applications and even a mobile app published on Google Play.",
+      "I value clean architecture, practical problem-solving, and writing code that's meant to last. I work well both independently and as part of distributed teams."
+    ],
+    "stats": {
+      "yearsExperience": "3+",
+      "projects": "10+",
+      "openSource": "5+"
+    },
+    "availability": {
+      "status": "available",
+      "message": "I'm currently open to remote opportunities with startups and international companies. Let's discuss how I can help build your backend infrastructure."
+    }
+  },
+  "contact": {
+    "email": "contact@amirmirfallahi.ir",
+    "github": "https://github.com/Amir-Mirfallahi/",
+    "linkedin": "https://linkedin.com/in/amirmirfallahi",
+    "blog": "https://blog.amirmirfallahi.ir/",
+    "website": "https://amirmirfallahi.ir/"
+  },
+  "skills": [
+    {
+      "title": "Backend",
+      "icon": "Server",
+      "color": "from-blue-500/20 to-blue-600/10",
+      "skills": [
+        { "name": "Laravel", "level": 80 },
+        { "name": "Django", "level": 80 },
+        { "name": "REST API Development", "level": 90 },
+        { "name": "Authentication & Authorization", "level": 90 },
+        { "name": "Database Design", "level": 88 }
+      ]
+    },
+    {
+      "title": "Databases",
+      "icon": "Database",
+      "color": "from-green-500/20 to-green-600/10",
+      "skills": [
+        { "name": "MySQL", "level": 80 },
+        { "name": "PostgreSQL", "level": 80 }
+      ]
+    },
+    {
+      "title": "DevOps & Tools",
+      "icon": "Container",
+      "color": "from-orange-500/20 to-orange-600/10",
+      "skills": [
+        { "name": "Docker", "level": 60 },
+        { "name": "CI/CD", "level": 65 },
+        { "name": "Git & GitHub", "level": 80 },
+        { "name": "Linux", "level": 60 }
+      ]
+    },
+    {
+      "title": "Frontend",
+      "icon": "Code",
+      "badge": "Secondary",
+      "color": "from-purple-500/20 to-purple-600/10",
+      "skills": [
+        { "name": "Vue.js", "level": 60 },
+        { "name": "React", "level": 65 },
+        { "name": "Tailwind CSS", "level": 75 },
+        { "name": "Typescript", "level": 65 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "CHAT: Voice-First AI Agent",
+      "description": "Award-winning real-time AI assistant for speech therapy. Features sub-second latency and emotive voice-to-voice interaction using WebRTC and LLM orchestration.",
+      "icon": "Mic",
+      "tech": [
+        "Django",
+        "React",
+        "Livekit",
+        "OpenRouter",
+        "Docker",
+        "ElevenLabs"
+      ],
+      "github": "https://github.com/Amir-Mirfallahi/chat-game",
+      "demo": "https://chatai-talk.ir/",
+      "featured": true
+    },
+    {
+      "title": "Nashta Construction Company Website",
+      "description": "Modern website for Nashta Construction company to showcase their projects and services.",
+      "icon": "Construction",
+      "tech": ["Wordpress", "Elementor"],
+      "github": "#",
+      "demo": "https://nashtaconstruction.com/",
+      "featured": false
+    },
+    {
+      "title": "Full-Stack Web Application",
+      "description": "A production-ready web application featuring a robust backend API with a modern Vue.js frontend interface.",
+      "icon": "Globe",
+      "tech": ["Laravel", "Vue.js", "MySQL", "Tailwind"],
+      "github": "https://github.com/Amir-Mirfallahi",
+      "demo": "#",
+      "featured": false
+    },
+    {
+      "title": "Taskflow AI Mobile App (Google Play)",
+      "description": "Cross-platform mobile application with a express backend and nextjs frontend.",
+      "icon": "Smartphone",
+      "tech": ["Next.js", "Capacitor", "Express.js"],
+      "github": "https://github.com/Amir-Mirfallahi/manager-app",
+      "demo": "#",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "title": "Backend Developer",
+      "company": "Freelance / Contract",
+      "location": "Remote",
+      "period": "2023 - Present",
+      "description": "Building custom backend solutions for startups and businesses. Specialized in Laravel and Django API development, database design, and system architecture.",
+      "responsibilities": [
+        "Designed and implemented RESTful APIs for various client projects",
+        "Built authentication systems with JWT and OAuth2",
+        "Optimized database queries and improved application performance",
+        "Deployed applications using Docker and cloud services"
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Pluxtm",
+      "location": "Remote",
+      "period": "2024 - Present",
+      "description": "Developed complete SaaS from frontend, focusing primarily frontend requirements.",
+      "responsibilities": [
+        "Built responsive UI components with Vue.js and Tailwind CSS",
+        "Integrated frontend with backend APIs",
+        "Collaborated with backend developers to ensure seamless data flow and user experience"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "company": "Codech",
+      "location": "Remote",
+      "period": "2024 - Present",
+      "description": "Teaching backend development with Laravel and Django to aspiring developers.",
+      "responsibilities": [
+        "Conducted online classes and workshops",
+        "Developed curriculum and learning materials",
+        "Provided mentorship and code reviews"
+      ]
+    }
+  ],
+  "openSource": {
+    "username": "Amir-Mirfallahi",
+    "description": "Backend developer passionate about building tools that help other developers. Check out my repositories for Laravel and Django utilities, API starters, and more.",
+    "stats": [
+      { "icon": "GitFork", "label": "Repositories", "value": "40+" },
+      { "icon": "Star", "label": "Contributions", "value": "100+" },
+      { "icon": "GitPullRequest", "label": "Pull Requests", "value": "30+" },
+      { "icon": "Users", "label": "Collaborations", "value": "10+" }
+    ],
+    "tags": ["Laravel", "Django", "REST APIs", "Open Source"]
+  },
+  "highlights": [
+    {
+      "icon": "Terminal",
+      "title": "Backend Expert",
+      "description": "Specialized in building robust APIs and server-side logic"
+    },
+    {
+      "icon": "Zap",
+      "title": "Performance Focused",
+      "description": "Optimizing for speed, scalability, and reliability"
+    },
+    {
+      "icon": "Users",
+      "title": "Team Player",
+      "description": "Experienced in remote collaboration and agile workflows"
+    },
+    {
+      "icon": "Globe",
+      "title": "Full-Stack Capable",
+      "description": "Can handle frontend when needed with React and Vue.js"
+    }
+  ],
+  "navigation": [
+    { "name": "About", "href": "#about" },
+    { "name": "Skills", "href": "#skills" },
+    { "name": "Projects", "href": "#projects" },
+    { "name": "Experience", "href": "#experience" },
+    { "name": "Contact", "href": "#contact" }
+  ]
+}

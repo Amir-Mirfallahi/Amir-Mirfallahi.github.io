@@ -1,0 +1,14 @@
+1:"$Sreact.fragment"
+2:I[62319,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"Navbar"]
+3:I[23271,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"HeroSection"]
+4:I[19266,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"AboutSection"]
+5:I[51996,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"SkillsSection"]
+6:I[64109,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"ProjectsSection"]
+7:I[96942,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"ExperienceSection"]
+8:I[69808,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"OpenSourceSection"]
+9:I[94493,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"ContactSection"]
+a:I[56691,["/_next/static/chunks/34cf4a7be1ff036b.js","/_next/static/chunks/4aa458d6a6b43aeb.js"],"Footer"]
+b:I[2718,["/_next/static/chunks/483a12865e0bba97.js","/_next/static/chunks/1d3be43a6dda29b7.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+0:{"buildId":"dhNjUbwifdqDrEeYah42E","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background text-foreground pt-16","children":[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],["$","$La",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/34cf4a7be1ff036b.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/4aa458d6a6b43aeb.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"loading":null,"isPartial":false}
+d:null
